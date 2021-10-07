@@ -1,0 +1,18 @@
+.container{
+    max-width: 48rem;
+    width: 100%;
+    padding-right: 1rem;
+    padding-left: 1rem;
+    margin-right: auto;
+    margin-left: auto;
+    font-family: 'Roboto', sans-serif;
+}
+.record_header{
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+}
+
+title{
+    font-family: 'Orbitron', sans-serif;
+}
